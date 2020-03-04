@@ -1,4 +1,4 @@
 1) User inputs first number via buttons
 2) Each button click logs number to an accumulator array
-
-3) When user hits operator button, operator is entered in math fuction, then triggers second array to be filled.
+3) When user hits operator button, operator triggers branch of control structure.
+4) Accumulator is reset and starts accumulating second argument. 

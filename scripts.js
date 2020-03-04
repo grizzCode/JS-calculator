@@ -1,4 +1,4 @@
-console.log("Psytonic Hyperdrive: ACTIVE")
+
 
 let args = []
 
@@ -13,11 +13,6 @@ function buttonPress(value) {
   calcDisplay(output)
   console.log(output)
 }
-
-
-
-
-
 
 
 function multiply() {
