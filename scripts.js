@@ -13,4 +13,22 @@ function buttonPress(value) {
   calcDisplay(output)
 }
 
+function multiply() {
+  let argOne = Number(args.join(''))
+  document.getElementById('screen').innerHTML = " * "
+  args = []
+  console.log(argOne)
+}
+function divide() {
 
+}
+function add() {
+
+}
+function subtract() {
+
+}
+function allClear() {
+  args = []
+  calcDisplay(args)
+}
